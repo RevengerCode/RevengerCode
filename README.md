@@ -47,8 +47,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/RevengerCode/RevengerCode/output/snake.svg" alt="Snake animation" />
-
-###
